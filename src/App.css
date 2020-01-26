@@ -13,7 +13,7 @@
 
 @media (max-width: 1000px){
     #app{
-        flex-direction: row;
+        flex-direction: column;
     }
 
     #app main{
